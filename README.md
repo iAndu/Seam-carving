@@ -6,9 +6,9 @@ This is a Python script that implements the content-aware image resizing describ
 
 # How to use
 
-Step 1: Modify the script settings in main.py to accommodate your needs.
-Step 2: Set the image path.
-Step 3: Run the script.
+1. Modify the script settings in main.py to accommodate your needs.
+2. Set the image path.
+3. Run the script.
 
 # Examples
 
